@@ -11,7 +11,7 @@ This is a simple weather application that retrieves and displays the current wea
 - Displays city name, temperature (in Celsius), humidity, weather description, and an appropriate weather emoji.
 - Error handling for invalid API responses or missing input.
 
-![image]([https://github.com/vv0935/Weather-API/blob/main/weatherapi.png))
+![image]("C:\Users\VAISHNAVI\Downloads\Weather_API_README.md"))
 
 ## Technologies Used
 
